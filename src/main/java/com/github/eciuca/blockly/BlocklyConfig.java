@@ -1,12 +1,12 @@
 package com.github.eciuca.blockly;
 
-import org.springframework.context.annotation.Configuration;
+import org.springframework.boot.autoconfigure.AutoConfiguration;
 import org.springframework.web.servlet.config.annotation.ResourceHandlerRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurationSupport;
 
 import java.util.logging.Logger;
 
-@Configuration
+@AutoConfiguration
 public class BlocklyConfig extends WebMvcConfigurationSupport {
 
     private static final String BLOCKLY_RESOURCE_LOCATION = "classpath:/blockly";
