@@ -14,5 +14,20 @@ To get started with this project, follow these steps:
 <dependency>
   <groupId>com.github.eciuca</groupId>
   <artifactId>blockly-automation-starter-webmvc-ui</artifactId>
-  <version>1.0.0</version>
+  <version>0.0.1-SNAPSHOT</version>
 </dependency>
+```
+
+2. Annotate your Spring Boot application class with `@EnableBlocklyAutomation`
+
+```java
+@EnableBlocklyAutomation
+@SpringBootApplication
+public class DemoApplication {
+    public static void main(String[] args) {
+        SpringApplication.run(DemoApplication.class, args);
+    }
+}
+```
+
+3. Access the Blockly Automation Visual API at `http://localhost:8080/blocklyAutomation`
