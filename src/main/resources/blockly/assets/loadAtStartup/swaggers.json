@@ -1,0 +1,12 @@
+[
+  {
+    "id": "Z_NOTTouch",
+    "link": "assets/loadAtStartup/drupal_swagger.js",
+    "enabled": true
+  },
+  {
+    "id": "localhost:8080",
+    "link": "http://localhost:8080/v3/api-docs",
+    "enabled": true
+  }
+]
