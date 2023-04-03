@@ -31,3 +31,7 @@ public class DemoApplication {
 ```
 
 3. Access the Blockly Automation Visual API at `http://localhost:8080/blocklyAutomation`
+
+## If you only want to play with the demo application you can just run it with docker
+$ docker build -t blockly-automation-starter-webmvc-ui .
+$ docker run -p 8080:8080 blockly-automation-starter-webmvc-ui
