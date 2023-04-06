@@ -23,7 +23,7 @@
         </dependency>
         <!-- Perform mvn clean install on the blockly-automation-starter-webmvc-ui first -->
         <dependency>
-            <groupId>com.github.eciuca</groupId>
+            <groupId>com.github.eciuca.blockly</groupId>
             <artifactId>blockly-automation-starter-webmvc-ui</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>

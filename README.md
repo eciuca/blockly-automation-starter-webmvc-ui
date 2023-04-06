@@ -12,7 +12,7 @@ To get started with this project, follow these steps:
 
 ```xml
 <dependency>
-  <groupId>com.github.eciuca</groupId>
+  <groupId>com.github.eciuca.blockly</groupId>
   <artifactId>blockly-automation-starter-webmvc-ui</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 </dependency>
