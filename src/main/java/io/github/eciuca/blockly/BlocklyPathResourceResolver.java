@@ -1,4 +1,4 @@
-package com.github.eciuca.blockly;
+package io.github.eciuca.blockly;
 
 import org.springframework.core.io.ClassPathResource;
 import org.springframework.core.io.Resource;

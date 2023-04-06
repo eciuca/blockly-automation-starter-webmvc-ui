@@ -1,4 +1,4 @@
-package com.github.eciuca.blockly;
+package io.github.eciuca.blockly;
 
 import org.springframework.boot.autoconfigure.AutoConfiguration;
 import org.springframework.web.servlet.config.annotation.ResourceHandlerRegistry;

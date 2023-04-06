@@ -1,6 +1,6 @@
 package com.example;
 
-import com.github.eciuca.blockly.EnableBlocklyAutomation;
+import io.github.eciuca.blockly.EnableBlocklyAutomation;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

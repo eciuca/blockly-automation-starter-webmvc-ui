@@ -1,4 +1,4 @@
-package com.github.eciuca.blockly;
+package io.github.eciuca.blockly;
 
 import org.springframework.context.annotation.Import;
 
