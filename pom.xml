@@ -11,7 +11,7 @@
 
     <groupId>io.github.eciuca.blockly</groupId>
     <artifactId>blockly-automation-starter-webmvc-ui</artifactId>
-    <version>0.1.0</version>
+    <version>0.1.1-SNAPSHOT</version>
 
     <name>blockly-automation-starter-webmvc-ui</name>
 
@@ -19,7 +19,7 @@
         <connection>scm:git:git://github.com/eciuca/blockly-automation-starter-webmvc-ui.git</connection>
         <developerConnection>scm:git:git@github.com:eciuca/blockly-automation-starter-webmvc-ui.git</developerConnection>
         <url>http://github.com/eciuca/blockly-automation-starter-webmvc-ui</url>
-      <tag>0.1.0</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <developers>
