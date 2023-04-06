@@ -34,6 +34,7 @@ public class DemoApplication {
 
 ## If you only want to play with the demo application you can just run it with docker
 ```shell
+$ cd demo-app
 $ docker build -t blockly-automation-starter-webmvc-ui .
 $ docker run -p 8080:8080 blockly-automation-starter-webmvc-ui
 ```
