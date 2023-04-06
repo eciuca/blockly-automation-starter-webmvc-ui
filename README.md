@@ -14,7 +14,7 @@ To get started with this project, follow these steps:
 <dependency>
   <groupId>io.github.eciuca.blockly</groupId>
   <artifactId>blockly-automation-starter-webmvc-ui</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.1.0</version>
 </dependency>
 ```
 
